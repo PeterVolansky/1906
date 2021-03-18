@@ -10,7 +10,11 @@ namespace _1906
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Toto je Uloha 19.6 !!")
+            Console.WriteLine("Toto je Uloha 19.6 !!");
+            Console.WriteLine("Toto je Uloha 19.6 !!");
+            Console.WriteLine("Uloha 19.6 !!");
+
+
         }
     }
 }
